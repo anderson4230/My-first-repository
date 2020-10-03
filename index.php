@@ -10,6 +10,7 @@
 	<?php
 
 		echo "<p>Bom tarde pessoal meu nome é anderon e quero me tornar um desenvolvedor, porque eu acho programação um barato</p>"
+		echo '<input type="text">'
 	?>
 </body>
 </html>
